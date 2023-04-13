@@ -16,3 +16,24 @@
     margin: 0 16px;
     font-size: 24px;
 }
+
+.escola-imagem{
+    width: 25%;
+}
+
+.Escola{
+    background-image: linear-gradient(#06053C,#252466);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+}
+
+.escola-div-contecuso{
+    width: 35%;
+}
+
+.escola-titulo{
+    padding: 24px 0;
+}
